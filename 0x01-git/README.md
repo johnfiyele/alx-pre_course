@@ -1,3 +1,3 @@
 My first directory
 
-New Readme update
+new readme update
